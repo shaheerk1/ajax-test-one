@@ -11,4 +11,4 @@ function loadText() {
     xhr.send();
 }
 
-loadText();
+loadText;
